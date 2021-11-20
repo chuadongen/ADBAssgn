@@ -13,7 +13,7 @@
 
 --CREATE DATABASE MBikeRental
 --GO
-
+--test
 USE MBikeRental
 GO
 
